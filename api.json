@@ -2,7 +2,7 @@
     "storeHouse": [
         {
             "sourceName": "集合",
-            "sourceUrl": "list.json"
+            "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/382580322/xixi/main/list.json"
         }
     ]
 }
