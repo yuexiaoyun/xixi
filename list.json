@@ -1,0 +1,56 @@
+{
+    "urls": [
+        {
+            "url": "./drpy2/JS/js.json",
+            "name": "drpy2"
+        },
+        {
+            "url": "./cns/api.json",
+            "name": "cns"
+        },
+        {
+            "url": "./feim/api.json",
+            "name": "feim"
+        },
+        {
+            "url": "./fongmi/api.json",
+            "name": "fongmi"
+        },
+        {
+            "url": "./fty/api.json",
+            "name": "fty"
+        },
+        {
+            "url": "./juny/api.json",
+            "name": "juny"
+        },
+        {
+            "url": "./qj/api.json",
+            "name": "qj"
+        },
+        {
+            "url": "./shym/api.json",
+            "name": "shym"
+        },
+        {
+            "url": "./tang/api.json",
+            "name": "tang"
+        },
+        {
+            "url": "./xc/api.json",
+            "name": "xc"
+        },
+        {
+            "url": "./XYQTVBox/api.json",
+            "name": "XYQTVBox"
+        },
+        {
+            "url": "./ygbh/api.json",
+            "name": "ygbh"
+        },
+        {
+            "url": "./yyds/api.json",
+            "name": "yyds"
+        }
+    ]
+}
