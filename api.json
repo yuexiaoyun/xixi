@@ -2,7 +2,7 @@
     "storeHouse": [
         {
             "sourceName": "集合",
-            "sourceUrl": "./list.json"
+            "sourceUrl": "list.json"
         }
     ]
 }
