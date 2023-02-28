@@ -1,0 +1,12 @@
+{
+    "storeHouse": [
+        {
+            "sourceName": "合集1",
+            "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/382580322/xixi/main/api/list.json"
+        },
+        {
+            "sourceName": "合集2",
+            "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/382580322/xixi/main/api/plus.json"
+        }
+    ]
+}

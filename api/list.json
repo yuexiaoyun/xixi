@@ -1,0 +1,52 @@
+{
+    "urls": [
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/382580322/xixi/main/drpy2/JS/js.json",
+            "name": "drpy2"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/382580322/xixi/main/cns/api.json",
+            "name": "cns"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/382580322/xixi/main/feim/api.json",
+            "name": "feim"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/382580322/xixi/main/fongmi/api.json",
+            "name": "fongmi"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/382580322/xixi/main/fty/api.json",
+            "name": "fty"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/382580322/xixi/main/juny/api.json",
+            "name": "juny"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/382580322/xixi/main/qj/api.json",
+            "name": "qj"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/382580322/xixi/main/shym/api.json",
+            "name": "shym"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/382580322/xixi/main/tang/api.json",
+            "name": "tang"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/382580322/xixi/main/xc/api.json",
+            "name": "xc"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/382580322/xixi/main/XYQTVBox/api.json",
+            "name": "XYQTVBox"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/382580322/xixi/main/yyds/api.json",
+            "name": "yyds"
+        }
+    ]
+}
