@@ -1,4 +1,4 @@
-###tvboxlocal查战损###0225qj_live
+###tvboxlocal查战损###0228qj_live
 CCTV-5+,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv5sportHD/__op/default/__f//index.m3u8
 CCTV-13,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctvnewsHD/__op/default/__f//index.m3u8
 CCTV-13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
@@ -8,9 +8,9 @@ CCTV-16,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv16/1.m3u8
 CCTV-16,http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8
 网络棋牌,http://bytedance.live.cqccn.com/__cl/cg:live/__c/qipai/__op/default/__f//index.m3u8
 百姓健康,http://bytedance.live.cqccn.com/__cl/cg:live/__c/jiankangSD/__op/default/__f//index.m3u8
-西藏影视文化,https://tv.vtibet.cn/live/FYeIdVzzCTBtvchannel2.m3u8
 湖南卫视,http://bytedance.live.cqccn.com]/__cl/cg:live/__c/hunanHD/__op/default/__f//index.m3u8
 云南卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/yunanSD/__op/default/__f//index.m3u8
+西藏影视文化,https://tv.vtibet.cn/live/FYeIdVzzCTBtvchannel2.m3u8
 重庆新闻,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cqtvnewsHD/__op/default/__f//index.m3u8
 重庆科教,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cqtvkejiaoHD/__op/default/__f//index.m3u8
 重庆社会与法HD,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cqtvtrendyHD/__op/default/__f//index.m3u8
@@ -158,7 +158,6 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 丽江古城大研花巷观景,http://gccncc.v.wscdns.com/gc/ljgcdyhxgjt_1/index.m3u8
 丽江古城万古楼遥望玉龙雪山,http://gccncc.v.wscdns.com/gc/ljgcwglytylxs_1/index.m3u8
 云台山红石峡,http://gccncc.v.wscdns.com/gc/ytshsx_1/index.m3u8
-雪乡梦幻家园观景台,http://gccncc.v.wscdns.com/gc/mdjxxmhjygjt_1/index.m3u8
 乌镇蓝印花布,http://gccncc.v.wscdns.com/gc/zjwzlyhb_1/index.m3u8
 五彩池,http://gccncc.v.wscdns.com/gc/hlwcc_1/index.m3u8
 洗身洞,http://gccncc.v.wscdns.com/gc/hlxsd_1/index.m3u8
@@ -170,7 +169,6 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 陕西洋县国宝朱鹮01,http://gccncc.v.wscdns.com/gc/zhhd01_1/index.m3u8
 陕西洋县国宝朱鹮04,http://gccncc.v.wscdns.com/gc/zh04_1/index.m3u8
 安徽黟县西递牌坊,http://gccncc.v.wscdns.com/gc/yxxdpf_1/index.m3u8
-安徽黟县宏村月沼,http://gccncc.v.wscdns.com/gc/yxhcyz_1/index.m3u8
 深圳世界之窗文化主题公园,http://gccncc.v.wscdns.com/gc/sjzc01_1/index.m3u8
 恒山悬空寺全景,http://gccncc.v.wscdns.com/gc/hsxksqj_1/index.m3u8
 黄果树银链坠潭瀑布,http://gccncc.v.wscdns.com/gc/hgsylztpb_1/index.m3u8

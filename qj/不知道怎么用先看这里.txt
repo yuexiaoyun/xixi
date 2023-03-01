@@ -8,9 +8,9 @@
 5、回到步骤2界面，确认步骤4粘贴内容已显示在"确定"左侧，点“确定”。返回主页即可享用。
 本地配置地址：
 影视TV用
-file://tvboxhh/0225qj/localxd_0225qj.bmp
+file://tvboxhh/0228qj/localxd_0228qj.bmp
 TVBox用
-clan://localhost/tvboxhh/0225qj/localxd_0225qj.json
+clan://localhost/tvboxhh/0228qj/localxd_0228qj.json
 频道：https://t.me/TVBox_local
 local by xhh 
 本地化模式：全本地，相对路径 
