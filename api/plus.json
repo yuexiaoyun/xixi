@@ -2,7 +2,11 @@
     "urls": [
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/382580322/xixi/main/ygbh/api.json",
-            "name": "ygbh"
+            "name": "月光宝盒"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/382580322/xixi/main/zhanghong/api.json",
+            "name": "张弘"
         }
     ]
 }
