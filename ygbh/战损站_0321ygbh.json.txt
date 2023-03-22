@@ -1,0 +1,13 @@
+[
+  {
+    "key": "csp_xpath_音范丝磁力",
+    "name": "🐛音范丝磁力〔XP〕",
+    "type": 3,
+    "api": "csp_XPath",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXP/音范丝磁力.json",
+    "jar": "http://maoyingshi.cc/tvbox/云星日记/jar/ali.jpg;md5;23a7b8ab50ead897fd733e5c52c5f3fd"
+  }
+]
